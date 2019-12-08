@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "756136285143",
+    "firebase_url": "https://intistattt.firebaseio.com",
+    "project_id": "intistattt",
+    "storage_bucket": "intistattt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756136285143:android:d1c3fa7191fe39822eb192",
+        "android_client_info": {
+          "package_name": "com.example.intistattt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756136285143-j21s56hj8rn807is7i3vidqi1aqted7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intistattt",
+            "certificate_hash": "4a0d31ccb8ae4bff110d81735c9677c296094432"
+          }
+        },
+        {
+          "client_id": "756136285143-re7cor7i41boq0o2r5843lqlhn8v72pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwQYWbxnvmHQXbOQStB97D_OGUBbXI0Gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756136285143-re7cor7i41boq0o2r5843lqlhn8v72pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

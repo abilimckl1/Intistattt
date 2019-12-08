@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">intistatt</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="problem_signin">Trouble Signing-in?</string>
+    <string name="invalid_password">Password does not match username</string>
+    <string name="invalid_username">Username does not exist</string>
+    <string name="blank_username">Please enter username</string>
+    <string name="login_success">Welcome </string>
+    <string name="connection_database_failed">Connection to database failed</string>
+    <string name="title_activity_main_menu">mainMenu</string>
+    <string name="title_home">Home</string>
+    <string name="title_timetable">Timetable</string>
+    <string name="title_attendance_stats">Attendance Stats</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main1">MainActivity1</string>
+    <string name="title_activity_login">Sign in</string>
+</resources>
